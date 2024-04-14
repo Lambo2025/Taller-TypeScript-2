@@ -1,3 +1,3 @@
 # Taller-TypeScript-2
 
-Prueba
+Andres Felipe Lamprea - 202120261
